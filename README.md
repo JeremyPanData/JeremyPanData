@@ -42,9 +42,9 @@
   <li> Others: Data Processing/Visualisations/SEM 
     <ul>
       <li> SPSS <img src="https://i0.wp.com/www.rensvandeschoot.com/wp-content/uploads/2019/01/spss-1-logo-png-transparent.png?resize=660%2C660&ssl=1" width="100" height="100"></li>
-      <li> Excel </li>
-      <li> Mplus </li>
-      <li> Tableau </li>
+      <li> Excel <img src="[https://i0.wp.com/www.rensvandeschoot.com/wp-content/uploads/2019/01/spss-1-logo-png-transparent.png?resize=660%2C660&ssl=1](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png)" width="100" height="100"></li>
+      <li> Mplus <img src="[https://i0.wp.com/www.rensvandeschoot.com/wp-content/uploads/2019/01/spss-1-logo-png-transparent.png?resize=660%2C660&ssl=1](https://yt3.googleusercontent.com/ytc/AGIKgqNbLaAo1KERRUNK8TZdyAoiysMRhwhSu1uTJy_Z6g=s900-c-k-c0x00ffffff-no-rj)" width="100" height="100"></li>
+      <li> Tableau <img src="[https://i0.wp.com/www.rensvandeschoot.com/wp-content/uploads/2019/01/spss-1-logo-png-transparent.png?resize=660%2C660&ssl=1](https://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-tableau-software.jpg)" width="100" height="100"></li>
     </ul></li>
 </ul>
 
