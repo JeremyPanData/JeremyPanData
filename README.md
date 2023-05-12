@@ -9,8 +9,8 @@
 
 Experiences:
 - I was a guy in green for a long time🪖
-- Research Associate at National Institute of Education (Singapore)
-- <p> A lot of data manipulation and cleaning </p>
+- Before coming to Sydney, I worked as a research associate at the National Institute of Education (Singapore)
+- <p> <b>A lot</b> of data manipulation and cleaning </p>
 - <p> this is where I got my intermediate excel skills (e.g., nested formulas, timedate manipulation, data validation...) </p>
 - <p> Working with Excel, SPSS, Mplus </p>
 
