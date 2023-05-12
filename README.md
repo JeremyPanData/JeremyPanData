@@ -21,10 +21,10 @@
 
 <h2> What I can do for you </h2>
 
-- Research data analysis with SPSS and R Programming
+- Research and statistical data analysis with SPSS and R Programming
 - Business data analytics 
-- SPSS and R Programme Tutor 
-- Assignment help in SPSS and R Progamme
+- Tutor: SPSS and R Programme 
+- Assignment help/advice in SPSS and R Progamme
 
 <h2>Programmes I am familiar with</h2>
 - Python 
