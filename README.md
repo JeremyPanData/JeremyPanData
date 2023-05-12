@@ -47,7 +47,10 @@
     </ul></li>
 </ul>
 
-    <h2> Other skills </h2>
+<h2> Other skills </h2>
+    <ul>
+      Check again!
+    </ul>
     
 
 <!---
