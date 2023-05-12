@@ -16,10 +16,10 @@ Experiences:
 
 <h2> What I can do for you </h2>
 
-- Research Data Analysis with SPSS
-- Data analysis 
-- Tutor
-- Assignment help in SPSS, R Progamme
+- Research data analysis with SPSS and R Programming
+- Business data analytics 
+- SPSS and R Programme Tutor 
+- Assignment help in SPSS and R Progamme
 
 <h2>Programmes I am familiar with</h2>
 - Python 
