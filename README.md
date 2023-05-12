@@ -8,7 +8,7 @@
 Experiences:
 - 🪖A guy in green
 - Research Associate at National Institute of Education (Singapore)
-- &emsp A lot of data manipulation and cleaning
+- <p> &emsp A lot of data manipulation and cleaning </p>
 - &emsp this is where I got my intermediate excel skills (e.g., nested formulas, timedate manipulation, data validation...) 
 - &emsp Working with Excel, SPSS, Mplus
 
