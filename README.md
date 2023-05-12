@@ -6,11 +6,11 @@
 </ul>
 
 Experiences:
-- 🪖A guy in green
+- A guy in green 🪖
 - Research Associate at National Institute of Education (Singapore)
-- <p> &emsp A lot of data manipulation and cleaning </p>
-- &emsp this is where I got my intermediate excel skills (e.g., nested formulas, timedate manipulation, data validation...) 
-- &emsp Working with Excel, SPSS, Mplus
+- <p> A lot of data manipulation and cleaning </p>
+- <p> this is where I got my intermediate excel skills (e.g., nested formulas, timedate manipulation, data validation...) </p>
+- <p> Working with Excel, SPSS, Mplus </p>
 
 What I can do for you:
 - 
