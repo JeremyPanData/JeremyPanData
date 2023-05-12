@@ -41,7 +41,7 @@
     </ul></li>
   <li> Others: Data Processing/Visualisations/SEM 
     <ul>
-      <li> SPSS <img src="https://i0.wp.com/www.rensvandeschoot.com/wp-content/uploads/2019/01/spss-1-logo-png-transparent.png?resize=660%2C660&ssl=1"></li>
+      <li> SPSS <img src="https://i0.wp.com/www.rensvandeschoot.com/wp-content/uploads/2019/01/spss-1-logo-png-transparent.png?resize=660%2C660&ssl=1" width="100" height="100"></li>
       <li> Excel </li>
       <li> Mplus </li>
       <li> Tableau </li>
