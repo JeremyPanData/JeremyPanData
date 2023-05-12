@@ -30,7 +30,7 @@
 <ul>
   <li> <h3>Python</h3> 
     <ul>
-      <li>Platforms: Jupyter <img src="https://jupyter.org/assets/share.png"width="200" height="100">, PyCharm, Google Colab </li>
+      <li>Platforms: Jupyter <img src="https://jupyter.org/assets/share.png"width="200" height="100">, PyCharm <img src="https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W_400x400.jpg width="100" height="100">, Google Colab <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="100" height="100"></li>
       <li>Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn</li>
       <li>Experienced with TensorFlow (see my <a href="">link to my tensorflow projects<a>)</li>
     </ul></li>
