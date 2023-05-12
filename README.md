@@ -26,22 +26,25 @@
 - Tutor: SPSS and R Programme 
 - Assignment help/advice in SPSS and R Progamme
 
-<h2>Programmes I am familiar with</h2>
+<h2>My skills and familiar Programmes</h2>
 <ul>
-<li> Python 
-  <ul>
-    <li>  Platforms: PyCharm, Jupyter, Google Colab </li>
-    <li>Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn</li>
-    <li>Experienced with TensorFlow (see my [link])</li>
-  </ul>
-<li> Data viz and analytics:
-- Tableau
-- Data Processing and statistical analysis
-- R Programming
-- Mplus
-- SPSS
-- Others: Tableau
-  </li>
+  <li> Python 
+    <ul>
+      <li>Platforms: PyCharm, Jupyter, Google Colab </li>
+      <li>Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn</li>
+      <li>Experienced with TensorFlow (see my [link])</li>
+    </ul></li>
+  <li> R Programming 
+    <ul>
+      <li>R Studio </li>
+      <li>Primary Packages: Tidyverse, ggplot2, LAVAAN for SEM </li>
+    </ul></li>
+  <li> Others: Data Processing/Visualisations/SEM 
+    <ul>
+      <li> Excel </li>
+      <li> Mplus </li>
+      <li> Tableau </li>
+    </ul></li>
 </ul>
 
 
