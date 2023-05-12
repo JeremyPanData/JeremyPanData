@@ -36,7 +36,7 @@
     </ul></li>
   <li> <h3>R Programming </h3>
     <ul>
-      <li>R Studio <img src = "https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"width="300" height="100"></li>
+      <li>R Studio <img src = "https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"width="150" height="50"></li>
       <li>Primary Packages: Tidyverse, ggplot2, LAVAAN for SEM </li>
     </ul></li>
   <li> <h3>Others: Data Processing/Visualisations/SEM </h3>
