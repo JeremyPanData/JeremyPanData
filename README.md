@@ -19,7 +19,7 @@
   <li> Volunteer Data Analytics roles </li>
     <ul>
       <li> Sentiment Analysis for online wellbeing platform <a href="https://acceset.com/">Acceset Singapore</a>(helped them score a recontract!)
-      <li> Business Analyst for two F&B  
+      <li> Business Analyst for two F&B outlets in Singapore
       <li> Data Executive for UCL Analytics for Social Impact Society
     </ul>
    </ul>
