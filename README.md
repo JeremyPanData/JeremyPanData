@@ -9,15 +9,15 @@
 
 <h3> Experiences </h3>
 <ul>
-- I was a guy in green for a long time🪖
-- Before coming to Sydney, I worked as a research associate at the National Institute of Education (Singapore)
+  <li>I was a guy in green for a long time🪖</li>
+  <li>Before coming to Sydney, I worked as a research associate at the National Institute of Education (Singapore)
     <ul>
       <li> <b>A lot</b> of data manipulation and cleaning </li>
       <li> Worked with Excel, SPSS, Mplus </li>
       <li> This is where I got my intermediate <i>Excel</i> skills (e.g., nested formulas, timedate manipulation, data validation...) </li>
       <li> And, my constant work with <i> SPSS </i>. I have trained research staff on the use of running standard analysis with SPSS. </li>
-    </ul>
-    </ul>
+    </ul></li>
+   </ul>
 
 <h2> What I can do for you </h2>
 
