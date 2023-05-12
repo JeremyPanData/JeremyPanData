@@ -16,6 +16,11 @@
       <li> This is where I got my intermediate Excel skills (e.g., nested formulas, timedate manipulation, data validation...) </li>
       <li> And, my constant work with SPSS . I have trained research staff on the use of running standard analysis with SPSS. </li>
     </ul></li>
+  <li> Volunteer Data Analytics roles </li>
+    <ul>
+      <li> Sentiment Analysis for online wellbeing platform <a href="https://acceset.com/">Acceset Singapore</a>(helped them score a recontract!)
+      <li> Business Analyst for two F&B  
+    </ul>
    </ul>
 
 <h2> What I can do for you </h2>
