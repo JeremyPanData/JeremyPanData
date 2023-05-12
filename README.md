@@ -14,8 +14,8 @@
     <ul>
       <li> <b>A LOT</b> of data manipulation and cleaning </li>
       <li> Worked with Excel, SPSS, Mplus </li>
-      <li> This is where I got my intermediate <i>Excel</i> skills (e.g., nested formulas, timedate manipulation, data validation...) </li>
-      <li> And, my constant work with <i> SPSS </i>. I have trained research staff on the use of running standard analysis with SPSS. </li>
+      <li> This is where I got my intermediate Excel skills (e.g., nested formulas, timedate manipulation, data validation...) </li>
+      <li> And, my constant work with SPSS . I have trained research staff on the use of running standard analysis with SPSS. </li>
     </ul></li>
    </ul>
 
