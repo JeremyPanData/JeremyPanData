@@ -27,17 +27,22 @@
 - Assignment help/advice in SPSS and R Progamme
 
 <h2>Programmes I am familiar with</h2>
-- Python 
-- Platforms: PyCharm, Jupyter, Google Colab
-- Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn
-- Experienced with TensorFlow (see my [link])
-- Data viz and analytics:
+<ul>
+<li> Python 
+  <ul>
+    <li>  Platforms: PyCharm, Jupyter, Google Colab </li>
+    <li>Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn</li>
+    <li>Experienced with TensorFlow (see my [link])</li>
+  </ul>
+Data viz and analytics:
 - Tableau
 - Data Processing and statistical analysis
 - R Programming
 - Mplus
 - SPSS
 - Others: Tableau
+  </li>
+</ul>
 
 
 <!---
