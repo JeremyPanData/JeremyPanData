@@ -34,7 +34,7 @@
     <li>Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn</li>
     <li>Experienced with TensorFlow (see my [link])</li>
   </ul>
-Data viz and analytics:
+<li> Data viz and analytics:
 - Tableau
 - Data Processing and statistical analysis
 - R Programming
