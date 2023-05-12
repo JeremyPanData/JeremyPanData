@@ -32,7 +32,7 @@
     <ul>
       <li>Platforms: Jupyter <img src="https://jupyter.org/assets/share.png"width="200" height="100">, PyCharm, Google Colab </li>
       <li>Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn</li>
-      <li>Experienced with TensorFlow (see my [link])</li>
+      <li>Experienced with TensorFlow (see my <a href="">link to my tensorflow projects<a>)</li>
     </ul></li>
   <li> <h3>R Programming </h3>
     <ul>
