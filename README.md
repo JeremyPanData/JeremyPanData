@@ -30,7 +30,7 @@
 <ul>
   <li> <h3>Python</h3> 
     <ul>
-      <li>Platforms: Jupyter <img src="https://jupyter.org/assets/share.png"width="150" height="100">, PyCharm, Google Colab </li>
+      <li>Platforms: Jupyter <img src="https://jupyter.org/assets/share.png"width="200" height="100">, PyCharm, Google Colab </li>
       <li>Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn</li>
       <li>Experienced with TensorFlow (see my [link])</li>
     </ul></li>
