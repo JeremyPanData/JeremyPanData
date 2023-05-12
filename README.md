@@ -9,8 +9,7 @@
 
 <h2> Experiences </h2>
 <ul>
-  <li>I was a guy in green for a long time🪖</li>
-  <li>Before coming to Sydney, I worked as a research associate at the National Institute of Education (Singapore)
+  <li>Before coming to Sydney, I worked as a research associate at the National Institute of Education (Singapore)</li>
     <ul>
       <li> <b>A LOT</b> of data manipulation and cleaning </li>
       <li> Worked with Excel, SPSS, Mplus </li>
