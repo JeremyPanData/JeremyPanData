@@ -26,7 +26,7 @@
 - Tutor: SPSS and R Programme 
 - Assignment help/advice in SPSS and R Progamme
 
-<h2>My skills and familiar Programmes</h2>
+<h2>My skills and what programmes I am familiar with</h2>
 <ul>
   <li> Python 
     <ul>
@@ -41,6 +41,7 @@
     </ul></li>
   <li> Others: Data Processing/Visualisations/SEM 
     <ul>
+      <li> SPSS </li>
       <li> Excel </li>
       <li> Mplus </li>
       <li> Tableau </li>
