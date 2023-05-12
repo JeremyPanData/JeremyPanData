@@ -5,7 +5,27 @@
 📫 How to reach me: message me on LinkedIn <a href="https://www.linkedin.com/in/jeremy-pan-jiadong"> My LinkedIn~~ </a><br>
 </ul>
 
+Experiences:
+- 🪖A guy in green
+- Research Associate at National Institute of Education (Singapore)
+- &emsp A lot of data manipulation and cleaning
+- &emsp this is where I got my intermediate excel skills (e.g., nested formulas, timedate manipulation, data validation...) 
+- &emsp Working with Excel, SPSS, Mplus
 
+What I can do for you:
+- 
+- Research Data Analysis with SPSS
+- Data analysis 
+- Tutor
+- Assignment help in SPSS, R Progamme
+
+I am familiar with:
+- Python 
+- Platforms: PyCharm, Jupyter, Google Colab
+- Primary Packages: Data viz with Matplotlib, Numpy, Pandas, scikit-learn
+- experienced with TensorFlow (see my [link])
+- Tableau
+- R Programming
 
 
 <!---
