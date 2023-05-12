@@ -7,7 +7,7 @@
 📫 How to reach me: message me on LinkedIn <a href="https://www.linkedin.com/in/jeremy-pan-jiadong"> My LinkedIn~~ </a> or my <a href=mailto:jpan.dataanalytics@gmail.com>email</a><br>
 </ul>
 
-<h3> Experiences </h3>
+<h2> Experiences </h2>
 <ul>
   <li>I was a guy in green for a long time🪖</li>
   <li>Before coming to Sydney, I worked as a research associate at the National Institute of Education (Singapore)
@@ -47,6 +47,8 @@
     </ul></li>
 </ul>
 
+    <h2> Other skills </h2>
+    
 
 <!---
 JeremyPanData/JeremyPanData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
