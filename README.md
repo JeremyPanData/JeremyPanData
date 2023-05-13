@@ -27,7 +27,8 @@
 <h2> What I can do for you </h2>
 
 - Research and statistical data analysis with SPSS and R Programming
-- Business data analytics 
+- Business data analytics in Python
+- Machine Learning in Python
 - Tutor: SPSS and R Programme 
 - Assignment help/advice in SPSS and R Progamme
 
