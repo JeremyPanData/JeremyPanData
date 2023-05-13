@@ -1,4 +1,4 @@
-![](https://github.com/JeremyPanalytics/JeremyPanalytics/blob/main/photo_2023-05-14_00-48-28.jpg)
+![](https://github.com/JeremyPanalytics/JeremyPanalytics/blob/main/banner_1.png)
 <html>
   <body>
 <h1> Introduction </h1>
