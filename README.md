@@ -7,6 +7,8 @@
 🌱 I’m currently learning OOP, APIs, web scrapping from Dr Angela Yu's python course on Udemy (i coded this in html!). But, that's my real deal is in Structural Equation Modelling... <br>
 📫 How to reach me: message me on LinkedIn <a href="https://www.linkedin.com/in/jeremy-pan-jiadong"> My LinkedIn~~ </a> or my <a href=mailto:jpan.dataanalytics@gmail.com>email</a><br>
 </ul>
+    
+<h2> <a href="https://github.com/JeremyPanalytics/MyProjects"> Please click here to go to my projects </a>
 
 <h2> Experiences </h2>
 <ul>
